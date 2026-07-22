@@ -1,5 +1,5 @@
 ticker,shares,cost_basis,date_bought
-AAPL,10,150.00,2023-01-15
-MSFT,5,280.00,2023-03-01
-VOO,8,380.00,2022-11-10
-MU,8,380.00,2022-11-10
+STOCK NAME( NASDAQ),SHARES,COST,DATE BOUGHT FORMAT (YEAR-DAY-MONTH)
+
+
+#My actual investments and watches have been removed from this due to it being public :)
